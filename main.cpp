@@ -2,7 +2,7 @@
 #include <string>
 #include <iomanip>
 #include <limits>
-using namespace std;
+using namespace std;// esto sirve para no usar std:: o usar using namespace std;
 
 // Constante para el tamaño máximo del inventario
 const int MAX_PRODUCTOS = 100;
